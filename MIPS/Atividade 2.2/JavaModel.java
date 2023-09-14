@@ -25,7 +25,7 @@ public class JavaModel{
         int arr[] = { 1, 2, 3, 4, 5 };
         int n = 5;
         int num1 = sum(arr, n);
-        int x = 5;
+        int x = 6;
         int num2 = recurImpar(x);
         System.out.println(num1);
         System.out.println(num2);
